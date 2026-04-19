@@ -8,7 +8,7 @@ This dashboard visualizes ocean temperature measurements at different depths off
 ---
 Dashboard: https://2fzjfm-scottie-szewczyk.shinyapps.io/ocean_temp_dashboard/
 
-Code: https://github.com/sszew/ocean_temperature_dashboard
+Code: [https://github.com/sszew/ocean_temperature_dashboard](https://github.com/sszew/ocean_temperature_dashboard/blob/main/app.R)
 
 Technology:
 - R
